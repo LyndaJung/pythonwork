@@ -41,3 +41,4 @@ if guess.isdigit():
        print('Out of range')
 else:
    print('That\'s not even an integer! What are you playing at?!')
+print(secret_number)
